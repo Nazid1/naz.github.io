@@ -54,7 +54,7 @@ section {
 }
 
 
-.image-container {
+.image-container img{
     display: flex;
     justify-content: center;
     gap: 15px;
